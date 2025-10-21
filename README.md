@@ -2,9 +2,9 @@
 Architect of the digital unknown. Building high-impact websites, apps, and SaaS products from Christchurch, New Zealand.
 
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=laravel&color=FF2D20)
-![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=php&color=777BB4)
+![Dart](https://img.shields.io/badge/Dart-Dart-informational?style=flat&logo=php&color=777BB4)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Arduino](https://img.shields.io/badge/Library-Arduino-61DAFB?logo=react&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-Arduino-61DAFB?logo=react&logoColor=white)
 ![.NET](https://img.shields.io/badge/Library-NET-35495E?logo=vuedotjs&logoColor=4FC08D)
 ![C#](https://img.shields.io/badge/Framework-C#-informational?style=flat&logo=next.js&color=000000)
 ![C++](https://img.shields.io/badge/Deployment-C++-informational?style=flat&logo=vercel&color=000000)
