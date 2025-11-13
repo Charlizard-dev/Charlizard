@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Charly March L. Mesina Also called Charlizard!
-Bachelor of Science in Computer Engineering
+Computer Engineer 👨‍💻
 
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&color=FF2D20)
 ![Visual Basic](https://img.shields.io/badge/Visualbasic-informational?style=flat&logo=vb&color=299999)
